@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/libbitcoin/libbitcoin.svg?branch=master)](https://travis-ci.org/libbitcoin/libbitcoin)
-
-[![Coverage Status](https://coveralls.io/repos/libbitcoin/libbitcoin/badge.svg)](https://coveralls.io/r/libbitcoin/libbitcoin)
-
 # Libbitcoin
 ![](https://github.com/MicrohexHQ/libbitcoin-system/blob/master/U/AI/ArtBoard%20Image%20(501).jpg)
 *The Bitcoin Development Library*
